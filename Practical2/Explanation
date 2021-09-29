@@ -1,0 +1,16 @@
+In task 1:
+  We have used " #include<iostream.h> " library.By using this,we faced an fatal error while running the code in preprocessor unit....
+ In task 2:
+  We haven't used " #include<iostream> ".By this we observed that code is running properly in preprocessor unit....
+  
+ Conclusion of task1 and task2:
+  We concluded that preprocessor unit check whether given library in the code is correct or not....
+  
+  
+  
+In Task 3:
+  We write a code for taking char as input but we actually give int as input and we get to know that it is printing only first number of given input....
+  
+In Task 4:
+  We tried to solve the problem in task3.By using get() function it only prints first value so to overcome this we used getline() function so that it reads 
+  entire string and give the string as output....
